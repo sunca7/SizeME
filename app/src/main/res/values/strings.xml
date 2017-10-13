@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SizeME</string>
+    <string name="measurement_size">Size me with Measurement</string>
+    <string name="brand_size">Size me with Brand</string>
+    <string name="femme">Femme</string>
+    <string name="hemme">Homme</string>
+</resources>
